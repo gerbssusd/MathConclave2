@@ -30,15 +30,17 @@ favicon: /Maxfav.png
 </SlidevVideo>
 
 ---
-
-#Strategies
-
+layout: center
 ---
 
-#Archive
+# Strategies
+
+---
+layout: center
+---
+
+# Archive
 <a href="https://docs.google.com/document/d/1KhAk3Z2tNphMG9p1g-Vv2xuapu5Mqt7w0568U6Hi6-Q/edit?usp=drive_link" target="_blank">ArchiveTemplate</a>
-
----
 
 ---
 class: scrollable
@@ -197,13 +199,15 @@ class: scrollable
   </div>
 
 ---
+layout: Center
+---
 
 <embed src="/MathCrm.pdf" type="application/pdf" width="100%" height="500px" />
 
 ---
-
 layout: end
 ---
+
 
 
 
