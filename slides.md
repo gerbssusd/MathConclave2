@@ -29,6 +29,8 @@ favicon: /Maxfav.png
   </p>
 </SlidevVideo>
 
+<a href="https://notebooklm.google.com/notebook/4a7659ee-5a2d-4c41-83e3-d60a059cb41d?artifactId=7196d0bf-8539-4e11-9601-c6246a44c5fc" target="_blank">Epicetus: The Nature of Control</a>
+
 ---
 layout: center
 ---
@@ -202,11 +204,12 @@ class: scrollable
 layout: Center
 ---
 
-<embed src="/MathCrm.pdf" type="application/pdf" width="100%" height="500px" />
+<embed src="/MathCRM.pdf" type="application/pdf" width="100%" height="500px" />
 
 ---
 layout: end
 ---
+
 
 
 
